@@ -1,2 +1,2 @@
-# resume_v1
+# resume-v1
 Created using HTML and TailwindCSS
