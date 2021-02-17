@@ -1,0 +1,23 @@
+{
+  "name": "resume_v1",
+  "version": "1.0.0",
+  "description": "Created using HTML and TailwindCSS",
+  "main": "index.js",
+  "scripts": {
+    "build-css": "tailwindcss build src/styles.css -o public/styles.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamRiles/resume_v1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SamRiles/resume_v1/issues"
+  },
+  "homepage": "https://github.com/SamRiles/resume_v1#readme",
+  "dependencies": {
+    "tailwindcss": "^2.0.3"
+  }
+}
